@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test case verifies that users can search for a product by name and view relevant search results.</description>
+   <name>TC11_SearchProduct</name>
+   <tag>productManagement</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>9575686d-bfe7-46c7-af6b-160f6ea88c95</testCaseGuid>
+</TestCaseEntity>

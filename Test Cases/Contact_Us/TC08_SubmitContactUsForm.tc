@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test case verifies the process of submitting the Contact Us form, including entering required details, uploading a file, and confirming the success message.</description>
+   <name>TC08_SubmitContactUsForm</name>
+   <tag>contactUs</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>608436bc-a16d-4ea8-81ef-2b16762f2aa7</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test case ensures that the system does not allow login with an invalid email address.</description>
+   <name>TC05_LoginWithInvalidEmail</name>
+   <tag>userLogin</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>df7a267a-fe77-4b07-b730-563dba6ac766</testCaseGuid>
+</TestCaseEntity>

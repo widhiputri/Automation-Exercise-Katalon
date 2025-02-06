@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test case verifies that users can navigate to the &quot;All Products&quot; page, view the product list, and access detailed information for a specific product.</description>
+   <name>TC09_ViewProductsWithoutLogin</name>
+   <tag>productManagement</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b0890437-c12a-42b7-a65e-f07055a47898</testCaseGuid>
+</TestCaseEntity>

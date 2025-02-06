@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test case verifies the logout process for a user, ensuring they can log in with valid credentials and log out successfully.</description>
+   <name>TC07_Logout</name>
+   <tag>userLogout</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>023068d2-bf0e-4945-abe0-6e7471fed0be</testCaseGuid>
+</TestCaseEntity>

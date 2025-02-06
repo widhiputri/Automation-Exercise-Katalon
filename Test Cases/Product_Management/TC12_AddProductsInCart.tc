@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test case verifies that users can add multiple products to the cart and check their details in the cart.</description>
+   <name>TC12_AddProductsInCart</name>
+   <tag>productManagement</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>390e1dd9-5fe0-4f58-a739-6b2f9ef685c8</testCaseGuid>
+</TestCaseEntity>

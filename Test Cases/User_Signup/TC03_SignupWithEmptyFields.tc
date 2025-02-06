@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test case checks if the system prevents users from signing up when mandatory fields are left empty.</description>
+   <name>TC03_SignupWithEmptyFields</name>
+   <tag>userSignup</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>fd20181a-704d-4134-89bc-e9862d27a5a0</testCaseGuid>
+</TestCaseEntity>

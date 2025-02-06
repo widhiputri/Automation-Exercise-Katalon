@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test case ensures that users cannot sign up using an already registered email address.</description>
+   <name>TC02_SignupWithExistingEmail</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>0a894457-50b3-4f2c-8092-82b737e68b22</testCaseGuid>
+</TestCaseEntity>

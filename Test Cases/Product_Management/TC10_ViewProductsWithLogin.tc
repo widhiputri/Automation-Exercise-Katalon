@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC10_ViewProductsWithLogin</name>
+   <tag>productManagement</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>cf9b8960-c3ce-406f-8d7f-d4a6d2a2ab4a</testCaseGuid>
+</TestCaseEntity>
